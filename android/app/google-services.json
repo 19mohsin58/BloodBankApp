@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533157199199",
+    "firebase_url": "https://blood-donaton-saylani-default-rtdb.firebaseio.com",
+    "project_id": "blood-donaton-saylani",
+    "storage_bucket": "blood-donaton-saylani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533157199199:android:4e341f9f26b73b90bdcaea",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533157199199-o9kq18ilsrr954sr6mjva3d82c8ippe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bloodbank",
+            "certificate_hash": "387102c8cdbe4f4238a99c667d1469238da17795"
+          }
+        },
+        {
+          "client_id": "533157199199-8f8dmhfr8cvb3vag0d88as209tutri23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqSa9UxtmvPh8Q7X6ybM5B78O0WjOb2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533157199199-8f8dmhfr8cvb3vag0d88as209tutri23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
